@@ -1,6 +1,6 @@
 # Project 1: Personal Profile Page
 > This is an HTML unit project-1 demonstration HTML knowledge and also basic CSS.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://vermillion-souffle-4fb9c1.netlify.app/index.html). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 - [Project 1: Personal Profile Page](#project-1-personal-profile-page)
